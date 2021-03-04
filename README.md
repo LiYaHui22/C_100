@@ -1,2 +1,2 @@
 # C_100
-100 classic questions of C language
+C 语言经典100题
